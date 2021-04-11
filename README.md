@@ -1,7 +1,7 @@
 # binance_launch_order
 This python script will place your limit buy or sell order when a new market is listed.<br>
 It will keep trying (loop) several times a second until the market is active.
-It also can be used to place limit orders from command line.
+It also can be used to place limit orders from command line (SPOT only)
 
 # Install intructions:
 
