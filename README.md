@@ -20,7 +20,7 @@ Negative amounts are sales, positive amounts are buys.<br/><br/>
 example to sell 1 BTC at $50000:<br/>
 python order.py btcusdt -1 50000<br/><br/>
 
-example to buy 10 BNB at $350:<br/><br/>
+example to buy 10 BNB at $350:<br/>
 python order.py bnbusdt 10 350<br/>
 
 Be careful, it doesn't do ANY verifications, if you type price too low when selling or too high when buying, the order will execute at market price. Errors will be show on the log.
@@ -31,6 +31,7 @@ If you like this and made a lot of extra money, feel free to contribute to my be
 btc: 1DN6jvGZbQkYT9RoCjCVzTs5MwC3xvdmMh<br/>
 ltc: LTT8Gj8nnwBCEGAcapjfLy9EyZtiu6Ntqh<br/>
 usdt TRC20: TYXR6fkC3dKwfSFtEdkgcPVr2em3cPUnT9<br/>
+bnb bsc: 0x8d291FD4413C947559E89F78534400ccaB9BDe92<br>
 
 # Help? Bugs?
 https://molibden.io/about/
